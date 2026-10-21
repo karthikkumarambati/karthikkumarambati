@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Technical skills">
+<defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#1b3f94"/><stop offset="1" stop-color="#5aa9ff"/></linearGradient></defs>
+<rect width="1000" height="330" rx="16" fill="#080e24"/><rect x="0.5" y="0.5" width="999" height="329" rx="16" fill="none" stroke="#5aa9ff" stroke-opacity="0.2"/>
+<text x="50" y="45" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#f2f6ff">WordPress</text>
+<text x="450" y="45" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#5aa9ff" font-weight="700">90%</text>
+<rect x="50" y="57" width="400" height="12" rx="6" fill="#1a2447"/>
+<rect x="50" y="57" height="12" rx="6" fill="url(#b)" width="0"><animate attributeName="width" values="0;360.0;360.0;0" keyTimes="0;0.25;0.85;1" dur="7s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.7 0.3 1;0 0 1 1;0.5 0 0.5 1"/></rect>
+<text x="50" y="113" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#f2f6ff">HTML5</text>
+<text x="450" y="113" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#5aa9ff" font-weight="700">90%</text>
+<rect x="50" y="125" width="400" height="12" rx="6" fill="#1a2447"/>
+<rect x="50" y="125" height="12" rx="6" fill="url(#b)" width="0"><animate attributeName="width" values="0;360.0;360.0;0" keyTimes="0;0.25;0.85;1" dur="7s" begin="0.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.7 0.3 1;0 0 1 1;0.5 0 0.5 1"/></rect>
+<text x="50" y="181" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#f2f6ff">CSS3</text>
+<text x="450" y="181" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#5aa9ff" font-weight="700">85%</text>
+<rect x="50" y="193" width="400" height="12" rx="6" fill="#1a2447"/>
+<rect x="50" y="193" height="12" rx="6" fill="url(#b)" width="0"><animate attributeName="width" values="0;340.0;340.0;0" keyTimes="0;0.25;0.85;1" dur="7s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.7 0.3 1;0 0 1 1;0.5 0 0.5 1"/></rect>
+<text x="50" y="249" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#f2f6ff">Core Java</text>
+<text x="450" y="249" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#5aa9ff" font-weight="700">80%</text>
+<rect x="50" y="261" width="400" height="12" rx="6" fill="#1a2447"/>
+<rect x="50" y="261" height="12" rx="6" fill="url(#b)" width="0"><animate attributeName="width" values="0;320.0;320.0;0" keyTimes="0;0.25;0.85;1" dur="7s" begin="0.6000000000000001s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.7 0.3 1;0 0 1 1;0.5 0 0.5 1"/></rect>
+<text x="550" y="45" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#f2f6ff">OJS Developer</text>
+<text x="950" y="45" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#5aa9ff" font-weight="700">80%</text>
+<rect x="550" y="57" width="400" height="12" rx="6" fill="#1a2447"/>
+<rect x="550" y="57" height="12" rx="6" fill="url(#b)" width="0"><animate attributeName="width" values="0;320.0;320.0;0" keyTimes="0;0.25;0.85;1" dur="7s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.7 0.3 1;0 0 1 1;0.5 0 0.5 1"/></rect>
+<text x="550" y="113" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#f2f6ff">JavaScript</text>
+<text x="950" y="113" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#5aa9ff" font-weight="700">70%</text>
+<rect x="550" y="125" width="400" height="12" rx="6" fill="#1a2447"/>
+<rect x="550" y="125" height="12" rx="6" fill="url(#b)" width="0"><animate attributeName="width" values="0;280.0;280.0;0" keyTimes="0;0.25;0.85;1" dur="7s" begin="0.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.7 0.3 1;0 0 1 1;0.5 0 0.5 1"/></rect>
+<text x="550" y="181" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#f2f6ff">PHP</text>
+<text x="950" y="181" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#5aa9ff" font-weight="700">70%</text>
+<rect x="550" y="193" width="400" height="12" rx="6" fill="#1a2447"/>
+<rect x="550" y="193" height="12" rx="6" fill="url(#b)" width="0"><animate attributeName="width" values="0;280.0;280.0;0" keyTimes="0;0.25;0.85;1" dur="7s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.7 0.3 1;0 0 1 1;0.5 0 0.5 1"/></rect>
+<text x="550" y="249" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#f2f6ff">MySQL</text>
+<text x="950" y="249" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#5aa9ff" font-weight="700">60%</text>
+<rect x="550" y="261" width="400" height="12" rx="6" fill="#1a2447"/>
+<rect x="550" y="261" height="12" rx="6" fill="url(#b)" width="0"><animate attributeName="width" values="0;240.0;240.0;0" keyTimes="0;0.25;0.85;1" dur="7s" begin="0.6000000000000001s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.7 0.3 1;0 0 1 1;0.5 0 0.5 1"/></rect>
+</svg>

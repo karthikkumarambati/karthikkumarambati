@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="484" viewBox="0 0 1000 484" role="img" aria-label="Experience timeline">
+<defs><linearGradient id="v" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5aa9ff"/><stop offset="1" stop-color="#1b3f94" stop-opacity="0.2"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5aa9ff"/><stop offset="1" stop-color="#2f6fd6"/></linearGradient></defs>
+<rect x="39" y="10" width="3" height="464" rx="1.5" fill="url(#v)"/>
+<rect x="84" y="2" width="916" height="104" rx="14" fill="#080e24"/>
+<rect x="84.5" y="2.5" width="915" height="103" rx="14" fill="none" stroke="#5aa9ff" stroke-opacity="0.45"/>
+<rect x="84" y="18" width="4" height="72" rx="2" fill="url(#a)"/>
+<circle cx="40.5" cy="54.0" r="9" fill="#5aa9ff" opacity="0.5"><animate attributeName="r" values="9;20;9" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="40.5" cy="54.0" r="9" fill="#03060f" stroke="#5aa9ff" stroke-width="3"/>
+<line x1="50" y1="54.0" x2="84" y2="54.0" stroke="#5aa9ff" stroke-opacity="0.5" stroke-width="2"/>
+<text x="112" y="32" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" letter-spacing="2.5" font-weight="700" fill="#5aa9ff">05/2026 – PRESENT</text>
+<rect x="878" y="16" width="94" height="24" rx="12" fill="#5aa9ff" fill-opacity="0.15" stroke="#5aa9ff" stroke-opacity="0.6"/><circle cx="894" cy="28" r="4" fill="#2ee66b"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="903" y="33" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" letter-spacing="1.5" font-weight="700" fill="#e6f0ff">CURRENT</text>
+<text x="112" y="60" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="800" fill="#ffffff">Senior Web Developer</text>
+<text x="112" y="82" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#9db4e6">Malla Reddy Vishwavidyapeeth</text>
+<text x="112" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#7f95c9">Team lead  •  Custom themes &amp; plugins  •  Multivendor eCommerce  •  Payments</text>
+<rect x="84" y="122" width="916" height="104" rx="14" fill="#080e24"/>
+<rect x="84.5" y="122.5" width="915" height="103" rx="14" fill="none" stroke="#5aa9ff" stroke-opacity="0.2"/>
+<rect x="84" y="138" width="4" height="72" rx="2" fill="url(#a)"/>
+<circle cx="40.5" cy="174.0" r="9" fill="#03060f" stroke="#5aa9ff" stroke-width="3"/>
+<line x1="50" y1="174.0" x2="84" y2="174.0" stroke="#5aa9ff" stroke-opacity="0.5" stroke-width="2"/>
+<text x="112" y="152" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" letter-spacing="2.5" font-weight="700" fill="#5aa9ff">09/2025 – 12/2025</text>
+<text x="112" y="180" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="800" fill="#ffffff">Web Developer</text>
+<text x="112" y="202" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#9db4e6">Tectoro</text>
+<text x="112" y="220" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#7f95c9">Custom WordPress frameworks  •  API integrations  •  Back-end &amp; database</text>
+<rect x="84" y="242" width="916" height="104" rx="14" fill="#080e24"/>
+<rect x="84.5" y="242.5" width="915" height="103" rx="14" fill="none" stroke="#5aa9ff" stroke-opacity="0.2"/>
+<rect x="84" y="258" width="4" height="72" rx="2" fill="url(#a)"/>
+<circle cx="40.5" cy="294.0" r="9" fill="#03060f" stroke="#5aa9ff" stroke-width="3"/>
+<line x1="50" y1="294.0" x2="84" y2="294.0" stroke="#5aa9ff" stroke-opacity="0.5" stroke-width="2"/>
+<text x="112" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" letter-spacing="2.5" font-weight="700" fill="#5aa9ff">11/2023 – 09/2025</text>
+<text x="112" y="300" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="800" fill="#ffffff">Web Developer</text>
+<text x="112" y="322" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#9db4e6">Masters Visa</text>
+<text x="112" y="340" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#7f95c9">Web strategy planning  •  Back-end services  •  Cross-browser QA</text>
+<rect x="84" y="362" width="916" height="104" rx="14" fill="#080e24"/>
+<rect x="84.5" y="362.5" width="915" height="103" rx="14" fill="none" stroke="#5aa9ff" stroke-opacity="0.2"/>
+<rect x="84" y="378" width="4" height="72" rx="2" fill="url(#a)"/>
+<circle cx="40.5" cy="414.0" r="9" fill="#03060f" stroke="#5aa9ff" stroke-width="3"/>
+<line x1="50" y1="414.0" x2="84" y2="414.0" stroke="#5aa9ff" stroke-opacity="0.5" stroke-width="2"/>
+<text x="112" y="392" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" letter-spacing="2.5" font-weight="700" fill="#5aa9ff">11/2022 – 10/2023</text>
+<text x="112" y="420" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="800" fill="#ffffff">Full Stack Web Developer</text>
+<text x="112" y="442" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#9db4e6">Sunrise Enterprises</text>
+<text x="112" y="460" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#7f95c9">Client-side apps  •  JavaScript frameworks  •  Responsive UI with CSS Flexbox</text>
+</svg>
