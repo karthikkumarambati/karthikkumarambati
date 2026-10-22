@@ -125,7 +125,7 @@ More on my [portfolio](https://karthikkumarambati.github.io/karthik_kumar/)
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=karthikkumarambati&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+<img src="./assets/achievements.svg" width="100%" alt="Trophies" />
 
 </div>
 
