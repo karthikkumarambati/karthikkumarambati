@@ -8,7 +8,7 @@
 <a href="https://karthikkumarambati.github.io/karthik_kumar/"><img src="https://img.shields.io/badge/Portfolio-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:karthikkumarambati@gmail.com"><img src="https://img.shields.io/badge/Email-060a1a?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Hyderabad-India-060a1a?style=for-the-badge&logo=googlemaps&logoColor=4da3ff" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=karthikkumarambati&label=Profile+Views&color=2f6fd6&labelColor=060a1a&style=for-the-badge" alt="Profile views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkarthikkumarambati&label=Profile%20Views&countColor=%232f6fd6&style=for-the-badge" alt="Profile views" />"
 
 <br/><br/>
 
