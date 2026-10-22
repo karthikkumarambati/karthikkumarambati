@@ -1,35 +1,75 @@
+
 <div align="center">
 
 <img src="./assets/hero.svg" width="100%" alt="Karthik Ambati - Senior WordPress Web Developer" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+<br/><br/>
+
 <a href="https://karthikkumarambati.github.io/karthik_kumar/"><img src="https://img.shields.io/badge/Portfolio-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:karthikkumarambati@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=4da3ff&labelColor=000000" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Hyderabad-India-0b1a3d?style=for-the-badge&logo=googlemaps&logoColor=4da3ff&labelColor=000000" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=karthikkumarambati&label=Profile+Views&color=2f6fd6&labelColor=000000&style=for-the-badge" alt="Profile views" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+<a href="mailto:karthikkumarambati@gmail.com"><img src="https://img.shields.io/badge/Email-060a1a?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Hyderabad-India-060a1a?style=for-the-badge&logo=googlemaps&logoColor=4da3ff" alt="Location" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkarthikkumarambati&label=Profile%20Views&countColor=%232f6fd6&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
 <img src="./assets/counters.svg" width="100%" alt="Highlights" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+</div>
+
+<br/>
+
 <img src="./assets/h-about.svg" width="100%" alt="About Me" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
-</div>
-<div align="left">
+
+<br/>
+
 <img align="right" width="260" src="https://karthikkumarambati.github.io/karthik_kumar/images/karthi-Photoroom%20%282%29.png" alt="Karthik Ambati" />
-<img src="./assets/about.svg" width="70%" alt="Senior WordPress Developer with 3+ years of experience: custom themes and plugins, WooCommerce, Elementor, Core Web Vitals, security and maintenance" />
-</div>
-<div align="center">
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+Senior WordPress Developer with 3+ years experience in WordPress development, PHP, MySQL, HTML5, CSS3,
+Javascript, Elementor and WooCommerce. Responsive web design. Theme and plugin customisation. SEO
+optimisation. Website performance. Core Web Vitals. Security. Maintenance and Troubleshooting . Proven ability to
+build scalable, user-friendly, high-performance websites in support of corporate and digital objectives.
+
+- 🧩 Custom theme and plugin development
+- 🛒 WooCommerce, multivendor stores and payment integrations
+- 🎨 Responsive, pixel-perfect UI with Elementor, HTML5 and CSS3
+- ⚡ Core Web Vitals, performance tuning and SEO optimisation
+- 🔒 Security, maintenance and troubleshooting
+- 👥 Code reviews, mentoring and task allocation
+
+<br clear="right"/>
+
 <img src="./assets/h-skills.svg" width="100%" alt="Skills" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+<br/>
+
+<div align="center">
+
 <img src="./assets/skills.svg" width="100%" alt="Skill levels" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,html,css,js,bootstrap,java,git,github,vscode,figma&perline=12&theme=dark" alt="Tech stack" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+</div>
+
+<br/>
+
 <img src="./assets/h-exp.svg" width="100%" alt="Experience" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+<br/>
+
+<div align="center">
 <img src="./assets/timeline.svg" width="100%" alt="Experience timeline: Malla Reddy Vishwavidyapeeth, Tectoro, Masters Visa, Sunrise Enterprises" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+</div>
+
+<br/>
+
 <img src="./assets/h-projects.svg" width="100%" alt="Featured Projects" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+<br/>
+
+<div align="center">
+
 <a href="https://ritewaymed.com/"><img src="./assets/card1.svg" width="24%" alt="Ritewaymed" /></a>
 <a href="https://drogo.shop/"><img src="./assets/card2.svg" width="24%" alt="Drogo" /></a>
 <a href="https://showteacher.in/"><img src="./assets/card3.svg" width="24%" alt="Show Teacher" /></a>
@@ -39,36 +79,69 @@
 <a href="https://mastersvisa.com/"><img src="./assets/card6.svg" width="24%" alt="Masters Visa" /></a>
 <a href="https://abroadagent.ai/"><img src="./assets/card7.svg" width="24%" alt="Abroad Agent" /></a>
 <a href="https://cogniflex.co.uk/"><img src="./assets/card8.svg" width="24%" alt="Cogniflex" /></a>
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
-<a href="https://karthikkumarambati.github.io/karthik_kumar/"><img src="https://img.shields.io/badge/View%20all%20projects-on%20my%20portfolio-4da3ff?style=for-the-badge&labelColor=000000" alt="View all projects on my portfolio" /></a>
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+<br/>
+
+More on my [portfolio](https://karthikkumarambati.github.io/karthik_kumar/)
+
+</div>
+
+<br/>
+
 <img src="./assets/h-3d.svg" width="100%" alt="3D Contributions" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+<br/>
+
+<div align="center">
+
 <!-- Generated daily by .github/workflows/profile-3d.yml -->
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
+
+<br/>
+
 <!-- Generated daily by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikkumarambati/karthikkumarambati/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikkumarambati/karthikkumarambati/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/karthikkumarambati/karthikkumarambati/output/github-snake-dark.svg" />
 </picture>
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
-<img src="./assets/h-stats.svg" width="100%" alt="GitHub Stats" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=karthikkumarambati&show_icons=true&hide_border=false&bg_color=000000&title_color=4da3ff&text_color=e6eeff&icon_color=4da3ff&border_color=1e2d5a&include_all_commits=false&count_private=false" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=karthikkumarambati&layout=compact&hide_border=false&bg_color=000000&title_color=4da3ff&text_color=e6eeff&border_color=1e2d5a" alt="Top languages" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=karthikkumarambati&background=000000&ring=4da3ff&fire=4da3ff&currStreakNum=ffffff&currStreakLabel=4da3ff&sideNums=ffffff&sideLabels=9db4e6&dates=7f95c9&stroke=1e2d5a&border=1e2d5a" alt="Streak stats" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
-<img src="./assets/achievements.svg" width="100%" alt="Achievements" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
-<img src="./assets/h-connect.svg" width="100%" alt="Get in touch" />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
-<img src="./assets/cta.svg" width="100%" alt="Have a website project in mind? I build modern, responsive, SEO-friendly WordPress and WooCommerce websites." />
-<img src="./assets/black.svg" width="100%" height="20" alt="" />
-<a href="https://karthikkumarambati.github.io/karthik_kumar/"><img src="https://img.shields.io/badge/Start%20a%20Project-4da3ff?style=for-the-badge&logo=wordpress&logoColor=white" alt="Start a project" /></a>
-<a href="mailto:karthikkumarambati@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-000000?style=for-the-badge&logo=gmail&logoColor=4da3ff&labelColor=000000" alt="Send an email" /></a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0b1a3d,100:2f6fd6&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
+
+<br/>
+
+<img src="./assets/h-stats.svg" width="100%" alt="GitHub Stats" />
+
+<br/>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=karthikkumarambati&show_icons=true&hide_border=false&bg_color=060a1a&title_color=4da3ff&text_color=e6eeff&icon_color=4da3ff&border_color=1e2d5a&include_all_commits=false&count_private=false" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=karthikkumarambati&layout=compact&hide_border=false&bg_color=060a1a&title_color=4da3ff&text_color=e6eeff&border_color=1e2d5a" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=karthikkumarambati&background=060a1a&ring=4da3ff&fire=4da3ff&currStreakNum=ffffff&currStreakLabel=4da3ff&sideNums=ffffff&sideLabels=9db4e6&dates=7f95c9&stroke=1e2d5a&border=1e2d5a" alt="Streak stats" />
+
+<br/>
+
+<img src="./assets/achievements.svg" width="100%" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<img src="./assets/h-connect.svg" width="100%" alt="Let's Connect" />
+
+<br/>
+
+<div align="center">
+
+**Have a website project in mind?** I build modern, responsive, SEO-friendly WordPress and WooCommerce websites.
+
+<a href="https://karthikkumarambati.github.io/karthik_kumar/"><img src="https://img.shields.io/badge/Start%20a%20Project-4da3ff?style=for-the-badge&logo=wordpress&logoColor=white" alt="Start a project" /></a>
+<a href="mailto:karthikkumarambati@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-060a1a?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Send an email" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060a1a,50:0f1f4d,100:2f6fd6&height=120&section=footer" width="100%" alt="footer" />
