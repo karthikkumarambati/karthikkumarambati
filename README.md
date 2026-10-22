@@ -1,8 +1,3 @@
-<style>
-  .d-flex {
-    display: none!important;
-}
-</style>
 
 <div align="center">
 
@@ -29,7 +24,10 @@
 
 <img align="right" width="260" src="https://karthikkumarambati.github.io/karthik_kumar/images/karthi-Photoroom%20%282%29.png" alt="Karthik Ambati" />
 
-Senior WordPress Developer with **3+ years** of experience building fast, secure and scalable websites for businesses, startups and universities.
+Senior WordPress Developer with 3+ years experience in WordPress development, PHP, MySQL, HTML5, CSS3,
+Javascript, Elementor and WooCommerce. Responsive web design. Theme and plugin customisation. SEO
+optimisation. Website performance. Core Web Vitals. Security. Maintenance and Troubleshooting . Proven ability to
+build scalable, user-friendly, high-performance websites in support of corporate and digital objectives.
 
 - 🧩 Custom theme and plugin development
 - 🛒 WooCommerce, multivendor stores and payment integrations
