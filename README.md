@@ -1,3 +1,9 @@
+<style>
+  .d-flex {
+    display: none!important;
+}
+</style>
+
 <div align="center">
 
 <img src="./assets/hero.svg" width="100%" alt="Karthik Ambati - Senior WordPress Web Developer" />
